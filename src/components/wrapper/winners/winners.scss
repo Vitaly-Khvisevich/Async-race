@@ -1,0 +1,21 @@
+.table{
+  color: white;
+  border-color: white;
+  box-shadow: 5px 5px 5px rgba(188, 193, 196, 0.1);
+}
+.tableTitleCont{
+  background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%);
+  background-position: 100% 0;
+  background-size: 200% 200%;
+  font-size: 20px;
+}
+.tableRow{
+  padding: 4px 8px;
+}
+.tableData{
+  padding-right: 60px
+}
+.sortRow:hover{
+  cursor: pointer;
+}
+
